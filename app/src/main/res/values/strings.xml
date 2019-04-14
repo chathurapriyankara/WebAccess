@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebAccess</string>
+    <string name="create">Create</string>
+    <string name="read">Read</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_read">Read</string>
+    <string name="submit">Submit</string>
+</resources>
